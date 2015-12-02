@@ -1,0 +1,78 @@
+.title-btn {
+   width: 150px;
+   margin: 8px;
+}
+
+.topic-title {
+   text-align: center;
+}
+
+.title-timer {
+   font-size: 28px;
+   margin: 15px;
+}
+
+.big-title {
+   font-size:80px;
+}
+
+.btn-fixed {
+   width:300px;
+   margin:10px;
+}
+
+.nugget-add {
+   width:300px;
+   height:100px;
+}
+
+#focused-input {
+   float:left;
+   width:300px;
+}
+
+#add-tag-btn {
+   float:left;
+   margin-left:10px;
+}
+
+.add-nugget-btn {
+   float:left;
+   margin-top:20px;
+}
+
+.add-nugget-textarea {
+   height: 200px;
+   vertical-align:top;
+}
+
+#tag-container {
+   display:hidden;
+}
+
+#nugget-container {
+   display:hidden;
+}
+
+#summary-container {
+   display:hidden;
+}
+
+.nugget-table {
+   table-layout:fixed;
+}
+
+.nugget-upvotes {
+   float:right;
+   margin-right:10px;
+}
+
+.nugget-downvotes {
+   float:right;
+}
+
+#admin-add-topic-text {
+   height:100px;
+   width:400px;
+   margin-bottom:10px;
+}
